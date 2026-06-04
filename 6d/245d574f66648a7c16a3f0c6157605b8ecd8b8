@@ -1,0 +1,29 @@
+src/renderer/src/components/settings/RepositoryPane.tsx
+  s_65871eb00ba20c::t_d9d80a83d1c3de 255,257-259
+  s_65871eb00ba20c::t_b380dbe9021e04 34-67
+  s_65871eb00ba20c::t_97b432a8d98e4d 252-254,256
+  s_65871eb00ba20c::t_5918c0202e1770 329-331,333-334
+tests/e2e/settings-display-name-ime.spec.ts
+  s_65871eb00ba20c::t_fe6899cda11364 1-9,11-29,33,105,115-117,119-130,132-133,136,138-155
+  s_65871eb00ba20c::t_dd8a0ed7cd230d 10,30-32,34-52,60-70,82-83,91-93,95-104,106-109,113-114,118,131,134-135,137
+  s_65871eb00ba20c::t_c341181baf06b8 53-59,71-74,78-80,84-90,94,110-112
+  s_65871eb00ba20c::t_ebd97a3b5d79e3 75-77,81
+src/renderer/src/components/settings/RepositoryPaneDraftInput.test.tsx
+  s_65871eb00ba20c::t_83c08d69b07c55 1-103
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "6d245d574f66648a7c16a3f0c6157605b8ecd8b8",
+  "prompts": {},
+  "sessions": {
+    "s_65871eb00ba20c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "cfb21b63-b960-4246-9c1f-17ff6af5a010",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Minsu Lee <amond@amond.net>"
+    }
+  }
+}
