@@ -1,0 +1,632 @@
+src/renderer/src/components/right-sidebar/SourceControlAgentActionDialogForm.test.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-146
+src/main/warp-themes/warp-theme-parser-worker.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-23
+src/main/startup/event-loop-stall-probe.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-39
+src/renderer/src/components/right-sidebar/AiVaultSessionVirtualList.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-233
+src/renderer/src/components/right-sidebar/SourceControlAgentActionDialogForm.tsx
+  s_50bd4217df17c0::t_00c7bf089e5055 118-119,121-123,288-290,299-301
+  s_50bd4217df17c0::t_ac618fb0f753aa 243
+src/renderer/src/components/contextual-tours/contextual-tour-floating-position.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-145
+src/main/linear/issue-context-client.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-345
+src/renderer/src/components/sidebar/useCreateRepo.default-checkout.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-194
+src/renderer/src/components/right-sidebar/AiVaultSessionRow.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-224
+src/renderer/src/store/slices/project-group-removal-targets.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-37
+src/renderer/src/hooks/useEditorExternalWatch.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 147-149,152
+src/renderer/src/components/settings/AgentsPane.tsx
+  s_50bd4217df17c0::t_00c7bf089e5055 396
+src/renderer/src/components/sidebar/AddRepoCreateStep.tsx
+  s_50bd4217df17c0::t_00c7bf089e5055 159,162,273-312,351-357,365
+src/renderer/src/components/sidebar/WorktreeList.tsx
+  s_50bd4217df17c0::t_00c7bf089e5055 724-725,728,1302,1326-1330,1334-1354,4527,4882,4897-4902,4904
+src/shared/shell-process-detection.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-16
+src/renderer/src/components/contextual-tours/ContextualTourArrow.tsx
+  s_50bd4217df17c0::t_00c7bf089e5055 39,44,47
+src/renderer/src/components/sidebar/SidebarToolbar.test.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-125
+src/main/warp-themes/discovery.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-39
+src/renderer/src/store/slices/pull-request-generation.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-218
+src/renderer/src/lib/launch-agent-background-session.test.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 264,266,295-298
+src/main/ai-vault/session-scanner-codex-paths.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-27
+src/main/linear/issue-context-client.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-302
+src/main/runtime/rpc/methods/linear-agent-access.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-57
+src/renderer/src/components/tab-group/AiVaultSessionDropLayer.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-309
+src/renderer/src/components/stats/OpenCodeUsageRecentSessionsTable.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-74
+src/renderer/src/components/right-sidebar/pr-comment-thread-resolution.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-46
+src/renderer/src/components/right-sidebar/useFileExplorerKeys.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 131-132,135
+src/shared/feature-interaction-catalog.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-162
+src/renderer/src/components/github-pr-merge-state.test.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 70-72,75-76
+src/main/runtime/rpc/methods/folder-workspace.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-98
+src/shared/source-control-ai-actions.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 7,9-10
+src/main/linear/issue-context-pagination.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-38
+src/main/runtime/rpc/methods/client-ui.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 148
+src/renderer/src/components/sidebar/worktree-drag-units.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 31-32,35
+src/renderer/src/lib/pane-manager/pane-manager-registry.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-28
+tools/benchmarks/results/startup-acl-fix-2026-06-10T19-37-58-671Z.json
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-445
+src/renderer/src/components/feature-wall/use-integration-connection-status.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-466
+src/renderer/src/components/settings/jira-integration-card.tsx
+  s_50bd4217df17c0::t_00c7bf089e5055 30,84-85,95,156,158-159
+src/main/jira/client.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 378-379
+src/main/runtime/orca-runtime.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 111,11357,13988,13991
+src/renderer/src/lib/launch-work-item-direct-messages.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-35
+src/renderer/src/components/settings/GeneralSupportSection.tsx
+  s_50bd4217df17c0::t_00c7bf089e5055 203-204
+src/renderer/src/components/sidebar/folder-workspace-composer-path-status.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-71
+src/renderer/src/store/slices/worktree-helpers.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-54
+src/renderer/src/components/NewWorkspaceComposerCard.tsx
+  s_50bd4217df17c0::t_00c7bf089e5055 420,422-443,450-453,472-475,794-795,800-808,816
+src/renderer/src/components/new-workspace/smart-workspace-source-results.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 53-59
+src/relay/remote-cli-timeout.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-52
+src/renderer/src/components/right-sidebar/ChecksPanel.tsx
+  s_50bd4217df17c0::t_00c7bf089e5055 118,123,1824-1825,1850,1881-1884,2633,2635,2725,2853,2884,2888-2889,2893,2904-2905,2908,2911,2914-2917,2936-2938
+  s_50bd4217df17c0::t_ac618fb0f753aa 2666
+src/shared/folder-workspaces.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-144
+src/renderer/src/store/slices/repos.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 837,840
+src/renderer/src/store/slices/github.test.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 3226-3227,3229,3241-3242,3246,3271-3272,3276,3302-3303,3307,3316-3317,3321,3423-3424,3428,3473-3474,3478,3573-3574,3576,3747-3748,3752,3791-3792,3796,3832-3837
+src/renderer/src/store/slices/editor.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 32-35,37,59-73,1450-1451,1527
+src/main/linear/client.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 524-525
+src/main/speech/model-manager-download-error.test.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 34-39
+src/renderer/src/components/pr-comments-resolution-prompt.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-166
+mobile/src/terminal/terminal-accessory-layout.test.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 225,257,276,311,316,323,328-329,334
+src/renderer/src/lib/launch-ai-vault-session.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-91
+mobile/src/terminal/terminal-text-input-normalization.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-18
+mobile/src/terminal/terminal-accessory-layout.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 52,112,198
+src/renderer/src/components/settings/TerminalAppearanceSection.tsx
+  s_50bd4217df17c0::t_00c7bf089e5055 16-17,20
+src/renderer/src/components/sidebar/SidebarFeedbackDialog.tsx
+  s_50bd4217df17c0::t_00c7bf089e5055 155-161
+src/main/ai-vault/session-scanner-graph-parsers.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-267
+src/renderer/src/store/slices/repos-project-groups.test.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 3-5,8
+src/renderer/src/components/settings/AccountsPane.tsx
+  s_50bd4217df17c0::t_00c7bf089e5055 59-60,234-235
+src/renderer/src/store/right-sidebar-route.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-34
+src/renderer/src/components/right-sidebar/pr-comment-thread-resolution.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-21
+src/main/warp-themes/warp-theme-import-source-validation.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-18
+src/renderer/src/store/slices/jira.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-303
+src/shared/ai-vault-types.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-169
+src/renderer/src/components/sidebar/useCreateProjectDefaults.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-260
+src/renderer/src/components/right-sidebar/source-control-dropdown-items.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 202-208,283-290,313-319,335-340,342-347,362-369,392-397,450-453,463-468
+src/renderer/src/components/pr-comments-resolution-prompt.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-159
+src/renderer/src/components/jira-connect-dialog.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-249
+tools/benchmarks/results/startup-baseline-2026-06-10T19-36-01-305Z.json
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-363
+src/cli/linear-format.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-73
+config/scripts/verify-localization-catalog.test.mjs
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-82
+src/shared/tui-agent-launch-defaults.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-127
+src/main/ipc/repos.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 102-103
+src/renderer/src/components/settings/useWarpThemeImport.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-220
+src/main/persistence.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 89-92,2271
+src/renderer/src/store/slices/jira.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 181-182,185,199,204-205,208,306,310,321-327,332,342,372,376,387-393,398,408,438,442,453-459,464,474
+src/renderer/src/components/stats/usage-formatters.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-36
+src/renderer/src/components/right-sidebar/ai-vault-session-filters.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-178
+src/main/ssh/ssh-relay-live-connect.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-93
+tools/benchmarks/startup-time-bench.mjs
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-330
+src/main/opencode/hook-plugin-message-part-throttle.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-203
+src/main/startup/hydrate-shell-path.test.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 195-208
+src/main/ai-vault/session-scanner-token-values.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-106
+tests/e2e/helpers/source-control-ai-generation.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 210-215,217
+src/renderer/src/components/right-sidebar/pr-comments-list-selection.test.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-297
+src/renderer/src/components/sidebar/SidebarTaskNavButton.tsx
+  s_50bd4217df17c0::t_a899dadd4b349e 251-262
+  s_50bd4217df17c0::t_8ef8707d5bb4c0 3
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-2,4-250,263-269
+src/renderer/src/components/settings/TerminalThemeSections.lifecycle.test.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 11,15
+src/renderer/src/components/sidebar/worktree-list-folder-reveal.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-65
+src/renderer/src/lib/folder-workspace-path-status.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-80
+src/main/warp-themes/parser-runner.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-76
+src/main/ai-vault/session-scanner-values.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-246
+src/renderer/src/components/feature-wall/ConnectIntegrationsList.test.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-224
+config/scripts/locale-translation-policy.es-round5.test.mjs
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-64
+src/renderer/src/components/terminal-pane/TerminalPane.tsx
+  s_50bd4217df17c0::t_00c7bf089e5055 758-759
+src/main/ssh/ssh-remote-cli-format.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-52
+src/main/ai-vault/session-scanner-secondary-parsers.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-238
+src/renderer/src/components/sidebar/create-project-defaults.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-88
+src/renderer/src/components/right-sidebar/agent-session-history-icon.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-32
+src/renderer/src/components/sidebar/folder-workspace-composer-submit.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-205
+src/renderer/src/components/floating-terminal/FloatingTerminalPanel.tsx
+  s_50bd4217df17c0::t_00c7bf089e5055 1368-1373
+mobile/src/notifications/mobile-notifications.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 132-138
+src/renderer/src/components/mobile/MobileHeroIntro.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-56
+mobile/src/terminal/terminal-text-input-normalization.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-20
+src/main/daemon/daemon-health.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 407-417,450-453,542-543,545,584-585,587
+src/renderer/src/components/sidebar/WorktreeCard.tsx
+  s_50bd4217df17c0::t_00c7bf089e5055 584-590
+src/shared/integration-credential-errors.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-15
+src/main/warp-themes/manual-warp-theme-files.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-89
+src/renderer/src/lib/sidebar-worktree-activation.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 2-5
+src/renderer/src/store/slices/ui.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 635,638,1472
+src/renderer/src/components/task-page-localized-options.tsx
+  s_50bd4217df17c0::t_56c09f5e0efeaa 128-132
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-3,5-127,133-213
+  s_50bd4217df17c0::t_a697f6820fb40e 4
+src/renderer/src/components/floating-terminal/FloatingTerminalPanel.test.tsx
+  s_50bd4217df17c0::t_00c7bf089e5055 521-522,529
+src/renderer/src/components/contextual-tours/use-contextual-tour.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 3,6,115-120,124
+src/shared/terminal-custom-themes.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-93
+src/main/daemon/daemon-init.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 211-215,219-221,223
+src/renderer/src/components/sidebar/ProjectGroupDeleteDialog.test.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-132
+src/main/ai-vault/session-scanner.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-306
+src/renderer/src/lib/terminal-theme.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 78,83,85
+src/renderer/src/components/right-sidebar/AiVaultPanelHeader.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-151
+src/renderer/src/components/sidebar/folder-workspace-composer-helpers.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-116
+src/main/ipc/repos-create.test.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 240
+src/renderer/src/runtime/sync-runtime-graph.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 1079-1081,1086-1087,1091
+src/renderer/src/components/feature-wall/use-integration-connection-status.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-255
+src/renderer/src/lib/floating-workspace-tour-interaction-snapshot.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-66
+src/renderer/src/components/sidebar/index.tsx
+  s_50bd4217df17c0::t_00c7bf089e5055 134-137
+src/shared/search-match-count.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-49
+src/renderer/src/lib/passive-macos-app-data-access.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 1-5
+src/renderer/src/components/right-sidebar/right-sidebar-measured-width.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-35
+src/main/warp-themes/index.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-267
+tests/e2e/floating-workspace-shared-glyph-atlas.spec.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-403
+src/renderer/src/components/settings/token-source-control-integration-cards.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-365
+src/renderer/src/components/settings/WarpThemeImportModal.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-331
+mobile/app/h/[hostId]/session/[worktreeId].tsx
+  s_50bd4217df17c0::t_00c7bf089e5055 4301
+src/renderer/src/components/sidebar/useCreateRepo.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-189
+src/main/startup/hydrate-shell-path.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 201
+src/renderer/src/components/right-sidebar/index.tsx
+  s_50bd4217df17c0::t_00c7bf089e5055 72
+src/cli/handlers/linear.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-215
+src/renderer/src/components/right-sidebar/AiVaultPanelControls.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-299
+mobile/app/terminal-settings.tsx
+  s_50bd4217df17c0::t_00c7bf089e5055 192,205,212
+src/renderer/src/components/right-sidebar/CreateHostedReviewComposer.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-361
+src/renderer/src/components/terminal-pane/pty-connection.test.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 3080-3082
+src/main/linear/issue-context-current.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-53
+src/renderer/src/lib/folder-workspace-path-status-cache-expiry.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-32
+src/main/warp-themes/parser.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-137
+src/relay/remote-cli-timeout.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-48
+src/renderer/src/store/slices/preflight.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 81
+src/renderer/src/components/setup-guide/setup-script-probe-cache.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-34
+src/renderer/src/components/contextual-tours/use-contextual-tour.test.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 2-5
+src/renderer/src/components/settings/useWarpThemeImport.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-420
+src/renderer/src/components/onboarding/GhosttyDiscoveryRow.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-93
+src/renderer/src/components/task-page-localized-options.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-58
+src/renderer/src/store/slices/worktrees.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 386-387,389-391,2004
+src/renderer/src/components/Landing.tsx
+  s_50bd4217df17c0::t_00c7bf089e5055 161-168
+src/renderer/src/components/stats/ClaudeUsageRecentSessionsTable.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-81
+src/main/linear/issue-context-raw.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-245
+src/main/warp-themes/parser.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-228
+src/renderer/src/components/feature-wall/use-feature-wall-task-source-presentation.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 93-94,97
+src/renderer/src/components/settings/source-control-integration-cards.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-11
+src/main/ai-vault/session-scanner-accumulator.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-165
+src/renderer/src/components/right-sidebar/HostedReviewStateActions.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-84
+src/renderer/src/components/icons/WarpIcon.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-12
+src/renderer/src/components/tab-bar/RecentTabSwitcher.test.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-217
+src/renderer/src/components/right-sidebar/ai-vault-virtual-rows.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-46
+src/main/warp-themes/discovery.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-29
+src/main/ssh/ssh-remote-cli-format.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-139
+src/renderer/src/components/sidebar/worktree-list-folder-reveal.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-119
+src/renderer/src/components/sidebar/SidebarSettingsHelpMenu.tsx
+  s_50bd4217df17c0::t_00c7bf089e5055 203
+  s_50bd4217df17c0::t_c4c110a0c31364 198-202
+src/renderer/src/components/settings/WarpThemeImportButton.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-24
+src/main/runtime/orca-runtime.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 7259
+  s_50bd4217df17c0::t_00c7bf089e5055 1453,1456,7254-7258,7260-7521,7523,7577-7595
+src/main/ssh/ssh-relay-deploy.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 80,83
+src/main/ipc/pty.test.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 4130-4132
+src/main/warp-themes/parser-runner.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-105
+src/main/ssh/ssh-remote-linear-cli.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-349
+src/shared/terminal-custom-themes.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-239
+src/shared/feature-interaction-usage-buckets.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-69
+src/main/ipc/telemetry.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 56,59
+src/renderer/src/components/right-sidebar/checks-panel-content.tsx
+  s_50bd4217df17c0::t_00c7bf089e5055 2284-2312,2320
+src/renderer/src/lib/floating-workspace-tour-interaction-snapshot.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-31
+src/renderer/src/components/right-sidebar/CreateHostedReviewComposerFields.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-268
+src/main/agent-hooks/opencode-message-part-flood-bench.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-137
+src/main/ai-vault/session-scanner-discovery.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-95
+src/shared/folder-workspace-worktree.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-37
+src/renderer/src/lib/launch-work-item-direct-types.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-29
+src/cli/linear-format.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-28
+src/renderer/src/components/sidebar/folder-workspace-composer-path-status.test.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-182
+src/renderer/src/components/settings/source-control-preflight-card-status.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-95
+src/main/index.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 589
+src/renderer/src/components/settings/task-tracker-integration-cards.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-212
+src/main/ai-vault/session-scanner-primary-parsers.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-300
+src/renderer/src/components/settings/integration-card-shell.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-68
+src/renderer/src/components/sidebar/useCreateProjectDefaults.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-307
+src/shared/folder-workspace-worktree.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-129
+src/main/linear/issue-context-errors.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-62
+mobile/src/components/drag-reorder-positions.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-48
+src/renderer/src/components/status-bar/tooltip.test.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 3-8
+src/renderer/src/components/settings/SourceControlActionRecipeRow.tsx
+  s_50bd4217df17c0::t_00c7bf089e5055 86-88,90-93,104-121
+src/renderer/src/lib/local-preflight-context.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 5,7
+src/renderer/src/lib/provider-runtime-context.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-22
+src/renderer/src/components/settings/use-integration-provider-status-refresh.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-51
+src/renderer/src/components/TaskPage.tsx
+  s_50bd4217df17c0::t_00c7bf089e5055 2977-2982,2985,3208,3211,4592-4598,4904-4905,4908-4909,5123-5124,5912,5998,7089,7092,9013,9165-9166,10624,10626
+src/renderer/src/store/slices/linear.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 581,584,607,610,631-632,635,647,650-651,654,670,680,707,710,736,739,772,775,806,810,840,847-848,857-867,870-871,875,892,897-898,903,913-914,919,928,937-942,972,979,1005-1007,1011,1017,1027-1032,1067,1074,1100-1102,1106,1117,1126-1131,1161,1168,1194-1196,1200,1212,1222-1227,1258,1290-1292,1296,1302,1310-1315,1320-1321,1326,1334,1346,1383-1384,1388,1394,1408-1413,1450,1490-1492,1496,1508,1517-1522,1553,1586-1588,1592,1598,1606-1611,1616-1617,1622,1630,1642,1679-1680,1684,1690,1704-1709,1746,1786-1788,1792,1798,1806-1811,1842,1875-1877,1881
+src/relay/remote-cli-env.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-16
+src/renderer/src/lib/launch-ai-vault-session.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-48
+src/main/startup/windows-user-data-acl.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-135
+src/renderer/src/components/mobile/MobileBrandIcons.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-16
+src/cli/specs/linear.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-37
+src/cli/handlers/linear.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-100
+src/renderer/src/lib/launch-work-item-direct-messages.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-23
+src/renderer/src/components/right-sidebar/AiVaultPanel.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-305
+src/renderer/src/components/right-sidebar/ai-vault-session-filters.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-142
+src/main/jira/client.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-312
+src/main/project-groups/folder-workspace-path-status.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-215
+src/renderer/src/store/slices/worktree-helpers.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 256
+src/renderer/src/components/feature-wall/ConnectIntegrationsList.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-190
+src/renderer/src/components/sidebar/SidebarToolbar.tsx
+  s_50bd4217df17c0::t_00c7bf089e5055 85-103
+src/preload/index.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 1539
+src/renderer/src/components/sidebar/AddRepoCreateStep.test.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-74
+src/main/ssh/ssh-remote-linear-cli.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-321
+src/renderer/src/lib/linked-work-item-context.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 78-79,84-85
+  s_50bd4217df17c0::t_00c7bf089e5055 140,143,205
+src/main/star-nag/service.test.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 185-186,188-196
+src/main/ssh/ssh-relay-native-deps-install.test.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 469
+src/renderer/src/components/sidebar/worktree-list-groups.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 97,99-101
+src/shared/linear-agent-access.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-208
+src/renderer/src/components/settings/TerminalThemeSections.tsx
+  s_50bd4217df17c0::t_00c7bf089e5055 74-76,78-79
+src/main/warp-themes/preview-operation-budget.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-43
+src/renderer/src/components/settings/McpMissingConfigList.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-30
+src/renderer/src/components/feature-wall/connect-integration-step.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-119
+src/renderer/src/components/StarNagCard.tsx
+  s_50bd4217df17c0::t_00c7bf089e5055 156
+tools/benchmarks/daemon-coldstart-bench.mjs
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-379
+src/main/project-groups/folder-workspace-path-status.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-221
+src/main/browser/browser-guest-ui.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 268-271,273-274
+src/renderer/src/lib/pane-manager/pane-manager-registry.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-44
+src/renderer/src/components/ui/checkbox.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-29
+src/renderer/src/components/sidebar/create-project-defaults.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-90
+src/main/warp-themes/index.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-541
+src/main/linear/issue-context-workspaces.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-68
+src/renderer/src/components/settings/YamlThemeImportButton.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-24
+src/renderer/src/components/settings/appearance-search.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 258-261,263-266
+src/shared/search-match-count.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-30
+src/shared/folder-workspace-path-status.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-34
+src/shared/git-remote-error.test.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 2,6
+src/renderer/src/components/settings/IntegrationsPane.tsx
+  s_50bd4217df17c0::t_00c7bf089e5055 25,46
+src/renderer/src/components/sidebar/folder-workspace-composer-submit.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-117
+src/main/window/createMainWindow.test.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 503-506
+src/shared/types.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 17,20,32,139-140,150-191,295-296,371-372,746-747,750,1218-1220,1562-1566,1708-1709,2126,2336-2341,2684,2686-2690
+src/renderer/src/components/sidebar/AddRepoNestedImportStep.test.tsx
+  s_50bd4217df17c0::t_00c7bf089e5055 33-44,46-49,114-121,125-128,151-168
+src/renderer/src/components/sidebar/SidebarHeader.tsx
+  s_50bd4217df17c0::t_00c7bf089e5055 26-33,35,37-39,41-43,48,50-52,54-55,57-61,66-89,91
+src/renderer/src/components/contextual-tours/contextual-tour-floating-position.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-274
+src/main/ai-vault/session-scanner.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-598
+src/renderer/src/lib/ai-vault-session-drag.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-84
+tests/e2e/tab-close-navigation.spec.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 292-301,307-308
+src/renderer/src/components/sidebar/useWorkspaceBoardPanel.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-102
+notes/windows-perf-progress.md
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-248
+src/renderer/src/components/sidebar/ProjectGroupDeleteDialog.tsx
+  s_50bd4217df17c0::t_00c7bf089e5055 209,212
+mobile/src/components/DragReorderList.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-349
+src/renderer/src/lib/folder-workspace-connection.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-92
+mobile/app/h/[hostId]/files/[worktreeId].tsx
+  s_50bd4217df17c0::t_00c7bf089e5055 351
+src/main/linear/issue-context.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-101
+src/main/startup/windows-user-data-acl.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-163
+src/renderer/src/App.tsx
+  s_50bd4217df17c0::t_00c7bf089e5055 1997,2001
+src/main/linear/issue-context-includes.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-227
+src/renderer/src/lib/orca-cli-launch-availability.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-20
+src/renderer/src/components/settings/cli-source-control-integration-cards.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-265
+src/renderer/src/lib/linked-work-item-context.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 15,24-25,60-99,143,146
+src/renderer/src/components/right-sidebar/activity-bar-overflow.test.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 6-7
+src/main/ipc/worktrees.test.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 3009-3011
+mobile/src/components/TerminalShortcutSettings.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-428
+src/renderer/src/components/sidebar/sidebar-nav-controls.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-50
+src/renderer/src/runtime/sync-runtime-graph-automation-leaf.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-124
+mobile/src/components/drag-reorder-positions.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-54
+src/main/ai-vault/session-scanner-types.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-75
+src/relay/remote-cli-env.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-21
+src/renderer/src/components/settings/SettingsFormControls.tsx
+  s_50bd4217df17c0::t_00c7bf089e5055 386,400,406-407
+src/renderer/src/components/right-sidebar/SourceControl.tsx
+  s_50bd4217df17c0::t_00c7bf089e5055 868,1927,1945,1994,2043-2044,2133-2135
+src/renderer/src/components/stats/CodexUsageRecentSessionsTable.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-75
+src/main/warp-themes/theme-file-scanner.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-233
+src/renderer/src/components/contextual-tours/ContextualTourOverlay.test.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 78
+src/renderer/src/components/right-sidebar/pr-comments-list-selection.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-227
+src/shared/feature-interaction-categories.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-79
+src/renderer/src/components/right-sidebar/AiVaultSessionDetails.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-415
+src/main/speech/model-manager.test.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 135,217,228,238
+src/shared/workspace-scope.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-31
+src/renderer/src/components/contextual-tours/ContextualTourOverlaySurface.tsx
+  s_50bd4217df17c0::t_00c7bf089e5055 2-10,162
+src/renderer/src/components/right-sidebar/SearchResultItems.test.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-89
+src/renderer/src/store/slices/project-group-removal-targets.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-81
+src/main/speech/model-manager.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 356-359,363-380,397
+src/renderer/src/components/sidebar/FolderWorkspaceComposerDialog.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-401
+tools/benchmarks/results/startup-acl-fix-steady-2026-06-10T19-41-40-683Z.json
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-363
+src/renderer/src/components/sidebar/useWorkspaceBoardPanel.test.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-151
+src/main/linear/issue-context-includes.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-273
+src/renderer/src/components/right-sidebar/SearchResultsPane.tsx
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-133
+src/main/project-groups/nested-repo-import.test.ts
+  s_50bd4217df17c0::t_00c7bf089e5055 83
+src/main/ipc/ai-vault.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-60
+src/renderer/src/components/sidebar/AddRepoNestedImportStep.tsx
+  s_50bd4217df17c0::t_00c7bf089e5055 106,109,112,121,135-137,150-152,154,157,159-160
+src/main/integration-credential-file.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-80
+src/renderer/src/components/sidebar/WorktreeContextMenu.tsx
+  s_50bd4217df17c0::t_00c7bf089e5055 435-436,441-443
+src/renderer/src/components/feature-interaction-writer-boundaries.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-227
+src/main/linear/issue-context-fanout.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-64
+src/renderer/src/lib/ai-vault-session-drag.test.ts
+  s_50bd4217df17c0::t_ac618fb0f753aa 1-88
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "dc7aa37cf8a1b972ab3eb92b87b11c3847c6da45",
+  "prompts": {},
+  "sessions": {
+    "s_50bd4217df17c0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fba45ba8-67fd-47c8-a6aa-52f140df78ff",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Minsu Lee <amond@amond.net>"
+    }
+  }
+}
