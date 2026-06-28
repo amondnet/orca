@@ -1,0 +1,19 @@
+src/renderer/src/runtime/runtime-file-client.test.ts
+  s_a85a74b6bbaf82::t_835932fd53b9fe 316-347
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "cdd24f93ca272f4752881e452c3033adfe92e6fd",
+  "prompts": {},
+  "sessions": {
+    "s_a85a74b6bbaf82": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "729453d2-b54e-4e8c-8672-839e08535e83",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Minsu Lee <amond@amond.net>"
+    }
+  }
+}
