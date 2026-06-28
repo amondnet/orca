@@ -1,0 +1,27 @@
+src/renderer/src/i18n/locales/en.json
+  s_4127ed71aa3595::t_29512e986a5364 8519
+src/renderer/src/i18n/locales/ko.json
+  s_4127ed71aa3595::t_5fb5a0f8a2395f 8519
+src/renderer/src/components/right-sidebar/HostedReviewActions.tsx
+  s_4127ed71aa3595::t_719b1d53713069 171-179,218-220,222
+src/renderer/src/i18n/locales/ja.json
+  s_4127ed71aa3595::t_00522a7bf5f59a 8519
+src/renderer/src/i18n/locales/zh.json
+  s_4127ed71aa3595::t_ca315ef34c0e3b 8519
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "5789cde8c4f6f5d9d705b08c7e19df76c1bbd79e",
+  "prompts": {},
+  "sessions": {
+    "s_4127ed71aa3595": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a8315054-029f-4dc8-bd67-03b8a8353d5f",
+        "model": "unknown"
+      },
+      "human_author": "Minsu Lee <amond@amond.net>"
+    }
+  }
+}
