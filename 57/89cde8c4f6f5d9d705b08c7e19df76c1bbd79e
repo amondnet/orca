@@ -4,10 +4,14 @@ src/renderer/src/i18n/locales/ko.json
   s_4127ed71aa3595::t_5fb5a0f8a2395f 8519
 src/renderer/src/components/right-sidebar/HostedReviewActions.tsx
   s_4127ed71aa3595::t_719b1d53713069 171-179,218-220,222
+  s_4127ed71aa3595::t_76bc620ff9fd1c 246
 src/renderer/src/i18n/locales/ja.json
   s_4127ed71aa3595::t_00522a7bf5f59a 8519
 src/renderer/src/i18n/locales/zh.json
   s_4127ed71aa3595::t_ca315ef34c0e3b 8519
+src/renderer/src/components/right-sidebar/HostedReviewStateActions.tsx
+  s_4127ed71aa3595::t_d71d6d3e95341d 87
+  s_4127ed71aa3595::t_62578f3a9acc52 56,60,64-68
 ---
 {
   "schema_version": "authorship/3.0.0",
