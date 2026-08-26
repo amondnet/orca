@@ -1,0 +1,31 @@
+src/renderer/src/components/sidebar/WorktreeCardStatusSlot.tsx
+  s_d06877a3069ed9::t_3752faa48e477c 12,79
+src/renderer/src/components/pull-request-merge-queue-presentation.ts
+  s_d06877a3069ed9::t_3752faa48e477c 1-88
+src/renderer/src/components/github-pr-merge-state.ts
+  s_d06877a3069ed9::t_3752faa48e477c 10-12,133,135
+src/renderer/src/components/right-sidebar/hosted-review-stack-merge-presentation.test.ts
+  s_d06877a3069ed9::t_6d29d20b76a9de 1-67
+src/renderer/src/components/right-sidebar/hosted-review-stack-merge-presentation.ts
+  s_d06877a3069ed9::t_dde0f7915ac655 1-56
+src/renderer/src/components/right-sidebar/HostedReviewActions.tsx
+  s_d06877a3069ed9::t_7c103b59b58db8 102-108
+  s_d06877a3069ed9::t_98442378732134 38
+  s_d06877a3069ed9::t_0a1aa72686fa1d 99-101
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "b104c35a6d9cd9b47c1b71b6bb02dd399db5a937",
+  "prompts": {},
+  "sessions": {
+    "s_d06877a3069ed9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f51d6990-73d1-41b3-bdd6-38c43153b58b",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Minsu Lee <amond@amond.net>"
+    }
+  }
+}
